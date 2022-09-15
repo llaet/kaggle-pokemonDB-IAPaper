@@ -2,7 +2,7 @@
 
 ## Description 
 
-This convolutional neural network classifies pokemons by type, using the training data from the [Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon), the network will classify the the pokemon according to it type weakness and strenghts, and resolve it based on the overall value obtained from sum of these attributes.
+This convolutional neural network classifies pokemons by type, using the training data from the [Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon), the network will classify the the pokemon according to it type weakness and strenghts, and resolve it based on the overall value from these attributes.
 
 ## Data Preprocessing
 
